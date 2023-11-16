@@ -28,7 +28,7 @@ function App() {
 
   return (
 
-    <div style={{ textAlign: 'center', backgroundColor: 'light-grey', minHeight: '100vh', padding: '20px' }}>
+    <div style={{ textAlign: 'center', backgroundColor: 'grey', minHeight: '100vh', padding: '20px' }}>
 
       <h1>To Do List</h1><br/>
 
